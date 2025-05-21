@@ -19,7 +19,22 @@
 
 ---
 
-## 💻 Skills
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,aws,azure,bash,cpp,css,debian,discord,github,grafana,html,ai,js,kali,linux,nginx,notion,powershell,py,selenium,vim,vscode,windows,wordpress">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">
+  <img src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff">
+  <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white">
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white">
+  <img src="https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff">
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">
+  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff">
+  <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white">
 
 <div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
