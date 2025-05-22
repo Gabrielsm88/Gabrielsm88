@@ -4,6 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=800&color=1E00F7&center=true&vCenter=true&multiline=true&width=980&height=260&lines=Ol%C3%A1%2C+tudo+bem%3F+++;Sou+o+Gabriel+%E2%80%94+entusiasta+e+eterno+aprendiz+em+tecnologia;Aqui+compartilho+meus+estudos%2C+projetos+e+certifica%C3%A7%C3%B5es+em+TI;Fique+%C3%A0+vontade+para+explorar!+%F0%9F%9A%80">
   </a>
 
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/Gabrielsm88/Gabrielsm88/main/assents/transparent_gif.gif" width="400px" align="center" alt="Gabriel GIF" />
+</div>
+
   <div style="margin-top: 30px;">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1E00F7&width=500&lines=Information+Security+%7C+Networking" />
