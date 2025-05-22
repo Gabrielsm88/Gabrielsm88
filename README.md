@@ -1,9 +1,8 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=1500&pause=750&center=true&vCenter=true&multiline=true&color=E347F7&width=642&height=130&lines=Olá%2C+sejam+bem-vindos!;Meu+nome+é+Gabriel;Este+é+meu+perfil+no+GitHub!;%C2%AF%5C_(%E3%83%84)_%2F%C2%AF" alt="Typing SVG" />
-  </a>
-  <br><br>
-  <img src="https://pin.it/68Fbxptrx" width="200px" alt="Gengar">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=800&color=1E00F7&center=true&vCenter=true&multiline=true&width=800&height=130&lines=Ol%C3%A1%2C+tudo+bem%3F+++;Sou+o+Gabriel+%E2%80%94+entusiasta+e+eterno+aprendiz+em+tecnologia;Aqui+compartilho+meus+estudos%2C+projetos+e+certifica%C3%A7%C3%B5es+em+TI;Fique+%C3%A0+vontade+para+explorar!+%F0%9F%9A%80"/></a>
+
+  <img src="https://pin.it/68Fbxptrx" width="200px" alt="Kyo">
 </div>
 
 ---
