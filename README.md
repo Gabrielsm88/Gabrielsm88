@@ -1,18 +1,17 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=800&color=1E00F7&center=true&vCenter=true&multiline=true&width=980&height=260&lines=Ol%C3%A1%2C+tudo+bem%3F+++;Sou+o+Gabriel+%E2%80%94+entusiasta+e+eterno+aprendiz+em+tecnologia;Aqui+compartilho+meus+estudos%2C+projetos+e+certifica%C3%A7%C3%B5es+em+TI;Fique+%C3%A0+vontade+para+explorar!+%F0%9F%9A%80"></a>
 
-  <img src="https://i.pinimg.com/originals/a0/02/55/a002550a3d08da33bb9dbe57cf7bc0f7.gif" width="400px" align="center" alt="Gabriel GIF" />
-</div>
-
-<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Information+Security+%7C+Networking)](https://git.io/typing-svg" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=800&color=1E00F7&center=true&vCenter=true&multiline=true&width=980&height=260&lines=Ol%C3%A1%2C+tudo+bem%3F+++;Sou+o+Gabriel+%E2%80%94+entusiasta+e+eterno+aprendiz+em+tecnologia;Aqui+compartilho+meus+estudos%2C+projetos+e+certifica%C3%A7%C3%B5es+em+TI;Fique+%C3%A0+vontade+para+explorar!+%F0%9F%9A%80">
   </a>
+
+  <div style="margin-top: 30px;">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1E00F7&width=500&lines=Information+Security+%7C+Networking" />
+    </a>
+  </div>
+
 </div>
 
-<div align="center">
-</div>
 
 ---
 
@@ -31,7 +30,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,aws,azure,bash,cpp,css,debian,grafana,html,js,kali,linux,nginx,powershell,py,vim,vscode,windows&perline=6" />
+    <img src="https://skillicons.dev/icons?i=arduino,aws,azure,bash,cpp,css,debian,grafana,html,js,kali,linux,nginx,powershell,py,vim,vscode,windows&perline=9" />
   </a>
 </p>
 
