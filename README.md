@@ -19,14 +19,16 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gabrielsm88&theme=buefy-dark&hide_border=true&short_numbers=true" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielsm88&layout=compact&langs_count=16&hide_border=true&theme=transparent&title_color=#1a1a1a&text_color=FFFFFF" />
+</p>
 
-<div align="center">
-  <a href="https://github.com/Gabrielsm88">
-    <img height="175em" src="http://github-readme-streak-stats.herokuapp.com/?user=Gabrielsm88&theme=transparent" alt="GitHub Streak Stats">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielsm88&layout=compact&langs_count=16&theme=transparent" />
-  </a>
-</div>
+<h2 align="center">
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=Gabrielsm88">
+  </div>
+</h2>
 
 ---
 
@@ -41,9 +43,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white">
 </P>
 
@@ -60,17 +59,41 @@
 ## 🏆 Certificações
 
 
-| nome | 
-| ![CCNA ITN](https://img.shields.io/badge/CISCO_Introduction_To_Network-t?style=flat&logo=cisco&color=black) | 
-| --- |
-| Certificação | 
-<a href="https://www.credly.com/badges/2ce51fb4-88d9-48dd-aebc-915080672ecc/public_url">
-    <img width="20%" height="20%" src="https://images.credly.com/size/220x220/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="Introduction to Networks">
-  </a>
+<table align="center">
+  <tr>
+    <th colspan="2" align="center"><strong>Nome</strong></th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/CISCO_Introduction_To_Networks-black?style=flat&logo=cisco" alt="CCNA ITN">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/_AWS_Academy_Cloud_Foundations-black?style=flat&logo=amazonwebservices&logoColor=yellow&labelColor=black&color=gray" alt="AWS CF">
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2" align="center"><strong>Certificação</strong></th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/2ce51fb4-88d9-48dd-aebc-915080672ecc/public_url">
+        <img width="100px" src="https://images.credly.com/size/220x220/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="Introduction to Networks">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/36f2eab0-8c6f-4d4e-b084-3e7c1d80b949/public_url">
+        <img width="100px" src="https://images.credly.com/size/220x220/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="AWS Academy Cloud Foundations">
+      </a>
+    </td>
+  </tr>
+</table>
 
-| ![CCNA ITN](https://img.shields.io/badge/CISCO_Introduction_To_Network-t?style=flat&logo=cisco&color=black) | Cisco NetAcademy Introduction to Network |
 
-| ![AWS_CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=yellow&labelColor=black&color=gray) | AWS Academy Cloud Foundations
+
+
+
+
+
 
 <div style="display: inline_block">
   <a href="https://certs.ibsec.com.br?cert_hash=6f6d69e191091f29">
@@ -79,7 +102,6 @@
 </div>
 
 ---
-
 
 <div style="display: inline_block">
   <a href="https://www.credly.com/badges/2ce51fb4-88d9-48dd-aebc-915080672ecc/public_url">
@@ -95,9 +117,16 @@
 
 ---
 
+Conquistas
+
+Projetos
+
+---
+
 ## ✉️ Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsm471329)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielmagalhaes8860)
 
 ---
+
