@@ -1,8 +1,8 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=800&color=1E00F7&center=true&vCenter=true&multiline=true&width=980&height=260&lines=Ol%C3%A1%2C+tudo+bem%3F+++;Sou+o+Gabriel+%E2%80%94+entusiasta+e+eterno+aprendiz+em+tecnologia;Aqui+compartilho+meus+estudos%2C+projetos+e+certifica%C3%A7%C3%B5es+em+TI;Fique+%C3%A0+vontade+para+explorar!+%F0%9F%9A%80"/></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=800&color=1E00F7&center=true&vCenter=true&multiline=true&width=980&height=260&lines=Ol%C3%A1%2C+tudo+bem%3F+++;Sou+o+Gabriel+%E2%80%94+entusiasta+e+eterno+aprendiz+em+tecnologia;Aqui+compartilho+meus+estudos%2C+projetos+e+certifica%C3%A7%C3%B5es+em+TI;Fique+%C3%A0+vontade+para+explorar!+%F0%9F%9A%80"></a>
 
-  <img src="https://i.pinimg.com/originals/a0/02/55/a002550a3d08da33bb9dbe57cf7bc0f7.gif" width="800px" align="center" alt="Gabriel GIF">
+  <img src="https://i.pinimg.com/originals/a0/02/55/a002550a3d08da33bb9dbe57cf7bc0f7.gif" width="400px" align="center" alt="Gabriel GIF" />
 </div>
 
 <div align="center">
@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,aws,azure,bash,cpp,css,debian,discord,grafana,html,js,kali,linux,nginx,powershell,py,vim,vscode,windows" />
+    <img src="https://skillicons.dev/icons?i=arduino,aws,azure,bash,cpp,css,debian,grafana,html,js,kali,linux,nginx,powershell,py,vim,vscode,windows&perline=6" />
   </a>
 </p>
 
