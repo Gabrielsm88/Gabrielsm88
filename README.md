@@ -59,6 +59,19 @@
 
 ## 🏆 Certificações
 
+
+| nome | 
+| ![CCNA ITN](https://img.shields.io/badge/CISCO_Introduction_To_Network-t?style=flat&logo=cisco&color=black) | 
+| --- |
+| Certificação | 
+<a href="https://www.credly.com/badges/2ce51fb4-88d9-48dd-aebc-915080672ecc/public_url">
+    <img width="20%" height="20%" src="https://images.credly.com/size/220x220/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="Introduction to Networks">
+  </a>
+
+| ![CCNA ITN](https://img.shields.io/badge/CISCO_Introduction_To_Network-t?style=flat&logo=cisco&color=black) | Cisco NetAcademy Introduction to Network |
+
+| ![AWS_CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=yellow&labelColor=black&color=gray) | AWS Academy Cloud Foundations
+
 <div style="display: inline_block">
   <a href="https://certs.ibsec.com.br?cert_hash=6f6d69e191091f29">
     <img width="20%" height="20%" src="https://certs.ibsec.com.br/wp-content/themes/ibsec-2022/stamp/PT-IC-SEC-1780.png" alt="Cybersecurity Awareness">
@@ -67,7 +80,6 @@
 
 ---
 
-## 🏅 Badges
 
 <div style="display: inline_block">
   <a href="https://www.credly.com/badges/2ce51fb4-88d9-48dd-aebc-915080672ecc/public_url">
