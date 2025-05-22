@@ -2,13 +2,12 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=800&color=1E00F7&center=true&vCenter=true&multiline=true&width=980&height=260&lines=Ol%C3%A1%2C+tudo+bem%3F+++;Sou+o+Gabriel+%E2%80%94+entusiasta+e+eterno+aprendiz+em+tecnologia;Aqui+compartilho+meus+estudos%2C+projetos+e+certifica%C3%A7%C3%B5es+em+TI;Fique+%C3%A0+vontade+para+explorar!+%F0%9F%9A%80"/></a>
 
-  <img src="https://i.pinimg.com/originals/a0/02/55/a002550a3d08da33bb9dbe57cf7bc0f7.gif" width="200px" align="center" alt="Gabriel GIF">
+  <img src="https://i.pinimg.com/originals/a0/02/55/a002550a3d08da33bb9dbe57cf7bc0f7.gif" width="800px" align="center" alt="Gabriel GIF">
 </div>
 
 <div align="center">
-  <!-- Frase inferior animada -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=4000&color=E347F7&width=500&lines=Informations+Security+%7C+Networking" align="center" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Information+Security+%7C+Networking)](https://git.io/typing-svg" />
   </a>
 </div>
 
@@ -31,17 +30,19 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,aws,azure,bash,cpp,css,debian,discord,github,grafana,html,ai,js,kali,linux,nginx,notion,powershell,py,selenium,vim,vscode,windows,wordpress">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,aws,azure,bash,cpp,css,debian,discord,grafana,html,js,kali,linux,nginx,powershell,py,vim,vscode,windows" />
+  </a>
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff">
   <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white">
   <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white">
-  <img src="https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff">
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white">
+</P>
 
 ---
 
