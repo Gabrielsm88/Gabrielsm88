@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=800&color=1E00F7&center=true&vCenter=true&multiline=true&width=800&height=130&lines=Ol%C3%A1%2C+tudo+bem%3F+++;Sou+o+Gabriel+%E2%80%94+entusiasta+e+eterno+aprendiz+em+tecnologia;Aqui+compartilho+meus+estudos%2C+projetos+e+certifica%C3%A7%C3%B5es+em+TI;Fique+%C3%A0+vontade+para+explorar!+%F0%9F%9A%80"/></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=800&color=1E00F7&center=true&vCenter=true&multiline=true&width=980&height=260&lines=Ol%C3%A1%2C+tudo+bem%3F+++;Sou+o+Gabriel+%E2%80%94+entusiasta+e+eterno+aprendiz+em+tecnologia;Aqui+compartilho+meus+estudos%2C+projetos+e+certifica%C3%A7%C3%B5es+em+TI;Fique+%C3%A0+vontade+para+explorar!+%F0%9F%9A%80"/></a>
 
   <img src="https://pin.it/68Fbxptrx" width="200px" alt="Kyo">
 </div>
@@ -34,15 +34,6 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff">
   <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white">
-
-<div style="display: inline_block">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
-  <img align="center" alt="AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
-  <img align="center" alt="Azure" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg">
-</div>
 
 ---
 
