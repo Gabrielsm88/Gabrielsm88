@@ -16,20 +16,19 @@
 
 </div>
 
+##   Sobre mim
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gabrielsm88&theme=buefy-dark&hide_border=true&short_numbers=true" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielsm88&layout=compact&langs_count=16&hide_border=true&theme=transparent&title_color=#1a1a1a&text_color=FFFFFF" />
-</p>
+## 🎓 Formação Acadêmica
 
-<h2 align="center">
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=Gabrielsm88">
-  </div>
-</h2>
+- 💻 **Técnico em Redes de Computadores**  
+  *Senai de Informática "Paulo Antonio Skaf"*  
+  _Previsão de conclusão: Dezembro de 2025_
 
+- 🖥️ **Tecnólogo em Segurança da Informação**  
+  *FATEC São Caetano do Sul "Antonio Russo"*  
+  _Previsão de conclusão: Dezembro de 2027_
 
-## ⚙️ Tech Stack 
+  ## ⚙️ Tech Stack 
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -43,18 +42,7 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white">
 </P>
 
-## 🎓 Formação Acadêmica
-
-- 💻 **Técnico em Redes de Computadores**  
-  *Senai de Informática "Paulo Antonio Skaf"*  
-  _Previsão de conclusão: Dezembro de 2025_
-
-- 🖥️ **Tecnólogo em Segurança da Informação**  
-  *FATEC São Caetano do Sul "Antonio Russo"*  
-  _Previsão de conclusão: Dezembro de 2027_
-
-  
-## 🏆 Certificações
+## <img src="https://github.com/Gabrielsm88/Gabrielsm88/raw/main/assents/certificate_emoji_github.png" width="20px" alt="Certificado" /> Certificações
 
 <table align="center">
   <tr align="center">
@@ -101,17 +89,38 @@
   </tr>
 </table>
 
+## 💼Projetos 
 
+- 🏡 **Casa Inteligente com IoT para PCDs**  
+  Desenvolvimento de uma solução de automação residencial voltada para Pessoas com Deficiência (PCDs), utilizando tecnologias de Internet das Coisas (IoT).
 
-## 👑 Conquistas
+- 🔧 **Infraestrutura de Redes**  
+  Planejamento, configuração e gerenciamento de redes corporativas com foco em segurança e desempenho.
 
+- 🖧 **Administração de Servidores Windows**  
+  Implantação e manutenção de servidores Windows, incluindo Active Directory, permissões e políticas de grupo.
 
+- ☁️ **Ambiente em Nuvem (AWS)**  
+  Criação e gerenciamento de instâncias EC2, configuração de serviços em nuvem e boas práticas de segurança na AWS.
 
+- 🕵🏻 **Monitoramento com Zabbix e Grafana**  
+  Implementação de sistemas de monitoramento para análise de desempenho e disponibilidade de serviços em tempo real.
 
-## 🗃️💼Projetos
-
-
-## ✉️ Contatos
+## 🌐 Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsm471329)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielmagalhaes8860)
+
+## <img src="https://github.com/Gabrielsm88/Gabrielsm88/raw/main/assents/github_emoji.png" width="20px" alt="GitHub Logo" /> Github Status
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gabrielsm88&theme=buefy-dark&hide_border=true&short_numbers=true" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielsm88&layout=compact&langs_count=16&hide_border=true&theme=transparent&title_color=#1a1a1a&text_color=FFFFFF" />
+</p>
+
+<h2 align="center">
+    Obrigado por visitar! 😎
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=Gabrielsm88">
+  </div>
+</h2>
