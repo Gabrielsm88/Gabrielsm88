@@ -17,8 +17,6 @@
 </div>
 
 
----
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Gabrielsm88&theme=buefy-dark&hide_border=true&short_numbers=true" />
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielsm88&layout=compact&langs_count=16&hide_border=true&theme=transparent&title_color=#1a1a1a&text_color=FFFFFF" />
@@ -30,13 +28,12 @@
   </div>
 </h2>
 
----
 
-## 💻 Tech Stack
+## ⚙️ Tech Stack 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,aws,azure,bash,cpp,css,debian,grafana,html,js,kali,linux,nginx,powershell,py,vim,vscode,windows&perline=9" />
+    <img src="https://skillicons.dev/icons?i=arduino,aws,azure,bash,cpp,debian,grafana,html,kali,linux,nginx,powershell,py,vscode" />
   </a>
 </p>
 
@@ -46,43 +43,59 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white">
 </P>
 
----
+## 🎓 Formação Acadêmica
 
-## 🎓 Formação
+- 💻 **Técnico em Redes de Computadores**  
+  *Senai de Informática "Paulo Antonio Skaf"*  
+  _Previsão de conclusão: Dezembro de 2025_
 
-📌 Cursando Técnico em Redes de Computadores - Senai de Informática "Paulo Antonio Skaf" (conclusão em dez/2025)
+- 🖥️ **Tecnólogo em Segurança da Informação**  
+  *FATEC São Caetano do Sul "Antonio Russo"*  
+  _Previsão de conclusão: Dezembro de 2027_
 
-📌 Tecnólogo em Segurança da Informação - FATEC São Caetano do Sul "Antonio Russo" (conclusão em dez/2027)
-
----
-
+  
 ## 🏆 Certificações
 
-
 <table align="center">
-  <tr>
-    <th colspan="2" align="center"><strong>Nome</strong></th>
+  <tr align="center">
+    <th colspan="4"><strong>Nome</strong></th>
   </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/CISCO_Introduction_To_Networks-black?style=flat&logo=cisco" alt="CCNA ITN">
+  <tr align="center">
+    <td>
+      <img src="https://img.shields.io/badge/_-CISCO_Introduction_To_Networks-t?style=flat&logo=CISCO&labelColor=black&color=black&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F2ce51fb4-88d9-48dd-aebc-915080672ecc%2Fpublic_url" alt="CCNA ITN" />
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/_AWS_Academy_Cloud_Foundations-black?style=flat&logo=amazonwebservices&logoColor=yellow&labelColor=black&color=gray" alt="AWS CF">
+    <td>
+      <img src="https://img.shields.io/badge/_-CISCO_Switching_Routing_and_Wireless_Essentials-t?style=flat&logo=cisco&color=black&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2Fe28fd8da-883c-4d0b-a531-37df93d5c1a9%2Fpublic_url" alt="CCNA SRWE" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=yellow&labelColor=black&color=gray&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F36ffb38b-31e3-49a9-970c-5b3b6d39e344%2Fpublic_url" alt="AWS Academy Cloud Foundations" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/_Cybersecurity_Awareness-t?style=flat&label=IBSEC&labelColor=8B6F2E&color=black&link=https%3A%2F%2Fcerts.ibsec.com.br%3Fcert_hash%3D6f6d69e191091f29" alt="Cybersecurity Awareness" />
     </td>
   </tr>
-  <tr>
-    <th colspan="2" align="center"><strong>Certificação</strong></th>
+  <tr align="center">
+    <th colspan="4"><strong>Certificação</strong></th>
   </tr>
-  <tr>
-    <td align="center">
+  <tr align="center">
+    <td>
       <a href="https://www.credly.com/badges/2ce51fb4-88d9-48dd-aebc-915080672ecc/public_url">
-        <img width="100px" src="https://images.credly.com/size/220x220/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="Introduction to Networks">
+        <img width="100px" src="https://images.credly.com/size/220x220/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="CCNA ITN" />
       </a>
     </td>
-    <td align="center">
+    <td>
+      <a href="https://www.credly.com/badges/e28fd8da-883c-4d0b-a531-37df93d5c1a9/public_url">
+        <img width="100px" src="https://images.credly.com/size/220x220/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" alt="CCNA SRWE" />
+      </a>
+    </td>
+    <td>
       <a href="https://www.credly.com/badges/36f2eab0-8c6f-4d4e-b084-3e7c1d80b949/public_url">
-        <img width="100px" src="https://images.credly.com/size/220x220/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="AWS Academy Cloud Foundations">
+        <img width="100px" src="https://images.credly.com/size/220x220/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="AWS Academy Cloud Foundations" />
+      </a>
+    </td>
+    <td>
+      <a href="https://certs.ibsec.com.br?cert_hash=6f6d69e191091f29">
+        <img width="100px" src="https://certs.ibsec.com.br/wp-content/themes/ibsec-2022/stamp/PT-IC-SEC-1780.png" alt="Cybersecurity Awareness" />
       </a>
     </td>
   </tr>
@@ -90,43 +103,15 @@
 
 
 
+## 👑 Conquistas
 
 
 
 
+## 🗃️💼Projetos
 
-<div style="display: inline_block">
-  <a href="https://certs.ibsec.com.br?cert_hash=6f6d69e191091f29">
-    <img width="20%" height="20%" src="https://certs.ibsec.com.br/wp-content/themes/ibsec-2022/stamp/PT-IC-SEC-1780.png" alt="Cybersecurity Awareness">
-  </a>
-</div>
-
----
-
-<div style="display: inline_block">
-  <a href="https://www.credly.com/badges/2ce51fb4-88d9-48dd-aebc-915080672ecc/public_url">
-    <img width="20%" height="20%" src="https://images.credly.com/size/220x220/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="Introduction to Networks">
-  </a>
-  <a href="https://www.credly.com/badges/e28fd8da-883c-4d0b-a531-37df93d5c1a9/public_url">
-    <img width="20%" height="20%" src="https://images.credly.com/size/220x220/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" alt="Switching, Routing, and Wireless Essentials">
-  </a>
-  <a href="https://www.credly.com/badges/36ffb38b-31e3-49a9-970c-5b3b6d39e344/public_url">
-    <img width="20%" height="20%" src="https://images.credly.com/size/220x220/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="AWS Academy Cloud Foundations">
-  </a>
-</div>
-
----
-
-Conquistas
-
-Projetos
-
----
 
 ## ✉️ Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsm471329)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielmagalhaes8860)
-
----
-
