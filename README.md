@@ -5,12 +5,14 @@
   </a>
 
   <div align="center">
-    <img src="https://raw.githubusercontent.com/Gabrielsm88/Gabrielsm88/main/assents/571df5947c3459f08ffa4288cf94d6b9.gif" width="400px" align="center" alt="Gabriel GIF" />
+    <img src="https://raw.githubusercontent.com/Gabrielsm88/Gabrielsm88/main/assents/fad7529f20bfad7cb19fc2a3535bc996.gif" width="400px" align="center" alt="Gabriel GIF" />
   </div>
 
 </div>
 
 ##   Sobre mim
+Sou o Gabriel, entusiasta em tecnologia e apaixonado por redes, segurança da informação e computação em nuvem. Estou sempre em busca de novos conhecimentos e desafios que me impulsionem no universo da TI.  
+Atualmente, me dedico à formação técnica e superior na área, enquanto coloco em prática meus estudos por meio de projetos e certificações.
 
 ## 🎓 Formação Acadêmica
 
@@ -22,19 +24,19 @@
   *FATEC São Caetano do Sul "Antonio Russo"*  
   _Previsão de conclusão: Dezembro de 2027_
 
-  ## ⚙️ Tech Stack 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,aws,azure,bash,cpp,debian,grafana,html,kali,linux,nginx,powershell,py,vscode" />
-  </a>
-</p>
+## ⚙️ Tech Stack
+ <p align="center">
+   <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=arduino,aws,azure,bash,cpp,debian,grafana,html,kali,linux,nginx,powershell,py,vscode" />
+   </a>
+ </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff">
   <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white">
-</P>
+</p>
 
 ## <img src="https://github.com/Gabrielsm88/Gabrielsm88/raw/main/assents/certificate_emoji_github.png" width="20px" alt="Certificado" /> Certificações
 
@@ -83,7 +85,7 @@
   </tr>
 </table>
 
-## 💼Projetos 
+##  💼 Projetos 
 
 - 🏡 **Casa Inteligente com IoT para PCDs**  
   Desenvolvimento de uma solução de automação residencial voltada para Pessoas com Deficiência (PCDs), utilizando tecnologias de Internet das Coisas (IoT).
@@ -102,10 +104,16 @@
 
 ## 🌐 Social
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsm471329)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielmagalhaes8860)
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrielsm471329">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/gabrielmagalhaes8860">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
-## <img src="https://github.com/Gabrielsm88/Gabrielsm88/raw/main/assents/github_emoji.png" width="20px" alt="GitHub Logo" /> Github Status
+## <img src="https://github.com/Gabrielsm88/Gabrielsm88/raw/main/assents/images.png" width="20px" alt="GitHub Logo" /> Github Status
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Gabrielsm88&theme=buefy-dark&hide_border=true&short_numbers=true" />
