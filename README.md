@@ -4,9 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=800&color=1E00F7&center=true&vCenter=true&multiline=true&width=980&height=260&lines=Ol%C3%A1%2C+tudo+bem%3F+++;Sou+o+Gabriel+%E2%80%94+entusiasta+e+eterno+aprendiz+em+tecnologia;Aqui+compartilho+meus+estudos%2C+projetos+e+certifica%C3%A7%C3%B5es+em+TI;Fique+%C3%A0+vontade+para+explorar!+%F0%9F%9A%80">
   </a>
 
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/Gabrielsm88/Gabrielsm88/main/assents/fad7529f20bfad7cb19fc2a3535bc996.gif" width="400px" align="center" alt="Gabriel GIF" />
-  </div>
+  <br/>
+
+  <img src="https://raw.githubusercontent.com/Gabrielsm88/Gabrielsm88/main/assents/fad7529f20bfad7cb19fc2a3535bc996.gif" width="250px" alt="Gabriel GIF" />
 
 </div>
 
