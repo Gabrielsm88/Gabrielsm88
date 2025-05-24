@@ -5,13 +5,7 @@
   </a>
 
   <div align="center">
-    <img src="https://raw.githubusercontent.com/Gabrielsm88/Gabrielsm88/main/assents/assents/571df5947c3459f08ffa4288cf94d6b9.gif" width="400px" align="center" alt="Gabriel GIF" />
-  </div>
-
-  <div style="margin-top: 30px;">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1E00F7&width=500&lines=Information+Security+%7C+Networking" />
-    </a>
+    <img src="https://raw.githubusercontent.com/Gabrielsm88/Gabrielsm88/main/assents/571df5947c3459f08ffa4288cf94d6b9.gif" width="400px" align="center" alt="Gabriel GIF" />
   </div>
 
 </div>
