@@ -38,7 +38,7 @@ Atualmente, me dedico à formação técnica e superior na área, enquanto coloc
   <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white">
 </p>
 
-## <img src="https://github.com/Gabrielsm88/Gabrielsm88/raw/main/assents/certificate_emoji_github.png" width="20px" alt="Certificado" /> Certificações
+## <img src="https://github.com/Gabrielsm88/Gabrielsm88/raw/main/assents/certificate_emoji_github2.png" width="20px" alt="Certificado" /> Certificações
 
 <table align="center">
   <tr align="center">
