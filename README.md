@@ -5,8 +5,8 @@
   </a>
 
   <div align="center">
-  <img src="https://raw.githubusercontent.com/Gabrielsm88/Gabrielsm88/main/assents/assents/571df5947c3459f08ffa4288cf94d6b9.gif" width="400px" align="center" alt="Gabriel GIF" />
-</div>
+    <img src="https://raw.githubusercontent.com/Gabrielsm88/Gabrielsm88/main/assents/assents/571df5947c3459f08ffa4288cf94d6b9.gif" width="400px" align="center" alt="Gabriel GIF" />
+  </div>
 
   <div style="margin-top: 30px;">
     <a href="https://git.io/typing-svg">
