@@ -120,6 +120,17 @@ Atualmente, me dedico à formação técnica e superior na área, enquanto coloc
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielsm88&layout=compact&langs_count=16&hide_border=true&theme=transparent&title_color=#1a1a1a&text_color=FFFFFF" />
 </p>
 
+## 🏆 GitHub Profile Trophy:
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Repositório de troféus">
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=Gabrielsm88&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
 <h2 align="center">
     Obrigado por visitar! 😎
   <div>
