@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=800&color=6F87C2&center=true&vCenter=true&multiline=true&width=640&height=130&lines=Ol%C3%A1%2C+tudo+bem%3F;Sou+um+entusiasta+e+eterno+aprendiz+da+tecnologia;Fique+%C3%A0+vontade+para+explorar!+%F0%9F%9A%80;(%3E%E2%80%BF%E2%97%A0)%E2%9C%8C" alt="Typing SVG" />
   </a>
 
-  <img src="https://raw.githubusercontent.com/Gabrielsm88/Gabrielsm88/main/assents/fad7529f20bfad7cb19fc2a3535bc996.gif" width="140px" alt="Gabriel GIF" />
+  <img src="https://raw.githubusercontent.com/Gabrielsm88/Gabrielsm88/main/assents/fad7529f20bfad7cb19fc2a3535bc996.gif" width="160px" alt="Gabriel GIF" />
 
 </div>
 
